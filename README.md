@@ -1,3 +1,24 @@
+# Job Finder 💻
+
+This is React Native App built using expo pacakge with expo router. I used the jobicy free API to get the job data.
+[Jobicy API](https://jobicy.com/)
+
+For information on how to use the API, you can check the usage on 
+[Jobicy API Instructions](https://rapidapi.com/jobicy-jobicy-default/api/jobicy)
+
+```
+API Query Parameters (optional)
+count - Number of listings to return (default: 50, range: 1-50)
+geo - Filter by job region (default: all regions)
+industry - Filter by job category (default: all categories)
+tag - Search by job title and description (default: all jobs)
+
+Eg: https://jobicy.com/api/v2/remote-jobs?count=20&geo=usa&industry=marketing&tag=seo
+```
+## Demo 📹
+
+https://github.com/user-attachments/assets/745b0194-6ace-4179-8bf5-13885e47c523
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
