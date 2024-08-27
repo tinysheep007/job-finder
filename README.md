@@ -1,6 +1,6 @@
 # Job Finder 💻
 
-This is React Native App built using expo pacakge with expo router. I used the jobicy free API to get the job data.
+This is a React Native app built using the Expo package with Expo Router. I used the Jobicy free API to get the job data.
 [Jobicy API](https://jobicy.com/)
 
 For information on how to use the API, you can check the usage on 
